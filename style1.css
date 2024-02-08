@@ -74,10 +74,10 @@ body{
 }
 .heart {
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: 50%;
-  width: 15px;
-  height: 15px;
+  width: 18px;
+  height: 18px;
   background: var(--heart-color);
   z-index: 4;
   transform: translate(-50%, -20%) rotate(45deg);
@@ -89,13 +89,13 @@ body{
 .heart:after {
   content: "";
   position: absolute;
-  width: 15px;
-  height: 15px;
+  width: 18px;
+  height: 18px;
   background-color: var(--heart-color);
   border-radius: 50%;
 }
 .heart:before {
-  top: -7.5px;
+  top: -9.5px;
 }
 .heart:after {
   right: 7.5px;
