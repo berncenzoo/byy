@@ -95,7 +95,7 @@ body{
   border-radius: 50%;
 }
 .heart:before {
-  top: -9.5px;
+  top: -5.5px;
 }
 .heart:after {
   right: 7.5px;
