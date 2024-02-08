@@ -135,13 +135,13 @@ body{
         text-align: center;
     }
     .description{
-        font-size: 10px;
+        font-size: 15px;
     }
     
     .button a{
-        font-size: 20px;
+        font-size: 30px;
     }
     .button {
-      margin: 5px 4px 6px 5px;
+      margin: 9px 8px 6px 6px;
     }
 }
