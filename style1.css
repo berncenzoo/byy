@@ -74,7 +74,7 @@ body{
 }
 .heart {
   position: absolute;
-  top: 40%;
+  top: 70%;
   left: 50%;
   width: 18px;
   height: 18px;
@@ -98,7 +98,7 @@ body{
   top: -9.5px;
 }
 .heart:after {
-  right: 9.5px;
+  right: 7.5px;
 }
 .flap > .envelope:before {
   transform: rotateX(180deg);
